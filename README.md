@@ -7,7 +7,7 @@
 ---
 
 > [!WARNING]
-> **Under Active Development** — This tool is built and maintained by a solo developer. You may encounter occasional bugs or unexpected output. If something breaks, try refreshing or rephrasing your prompt.
+> **Under Active Development** — This tool is built and maintained by a solo developer. You may encounter occasional bugs or unexpected output. If something breaks, try refreshing or rephrasing your prompt. Feedback is welcome via [GitHub Issues](../../issues).
 
 ---
 
